@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#include "mycutils.h"
-#include "timer_sec.h"
+#include "mycutils/mycutils.h"
+#include "clocks/timer_sec/timer_sec.h"
 
 /**
  * This function prints the help menu.
