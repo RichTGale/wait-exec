@@ -1,0 +1,5 @@
+[ Fri Sep 19 22:01:47 2025 ] Program start.
+[ Fri Sep 19 22:01:47 2025 ] ERROR: No arguments provided.
+[ Fri Sep 19 22:02:15 2025 ] Program start.
+[ Fri Sep 19 22:02:15 2025 ] Executing "ls" in 5 seconds...
+[ Fri Sep 19 22:02:20 2025 ] "ls" was executed. Exiting wait_exec.

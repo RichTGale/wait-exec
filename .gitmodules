@@ -1,3 +1,6 @@
 [submodule "mycutils"]
 	path = mycutils
 	url = https://github.com/RichTGale/mycutils.git
+[submodule "clocks"]
+	path = clocks
+	url = https://github.com/RichTGale/clocks.git
